@@ -11,12 +11,13 @@ docker compose up
 После этого управление фотогалереей будет доступно по адресу:
 http://localhost:3000
 
-Данные для входа в админку: login:admin@example.com,password: d1r3ctu5
+Данные для входа в админку: login: admin@example.com, password: d1r3ctu5
 
 Для запуска самого приложения выполните в консоли команду:
 
 npm start
 Если приложение предложит запуститься на другом порте, согласитесь, нажав кнопку Y.
+
 ![image](https://github.com/user-attachments/assets/97f46332-21a6-4f39-ac9b-35b2885c876c)
 
 Приятного пользования!
